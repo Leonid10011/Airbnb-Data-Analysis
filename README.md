@@ -10,7 +10,7 @@ This project explores Airbnb listings in NYC using **Python, Pandas, Seaborn, an
 
 ## 📂 Files
 - `Airbnb_Analysis.ipynb` → Jupyter Notebook with full analysis
-- `cleaned_airbnb_data.csv` → Processed dataset
+- `AB_NYC_2019.csv` → Processed dataset
 
 ## 🚀 How to Run This Notebook
 1. Install dependencies:  
